@@ -1,0 +1,34 @@
+body
+{background-image: url('We.png'),  url('Wert.png'), url('Wer.png');
+             background-repeat: no-repeat, no-repeat, no-repeat;
+             background-size: 1500px, 1500px, 1500px 2250px;
+             background-position: top, bottom, center;
+
+}
+
+#Pic-1{
+    height: 300px;
+    width: 300px;
+    padding-right: 80px;
+}
+
+#Pic-2{
+    height: 350px;
+    width: 350px;
+    padding-left: 80px;
+}
+
+#Pic-3{
+    height: 260px;
+    width: 260px;
+    padding: 30px;
+
+}
+
+#Pic-4{
+    height: 260px;
+    width: 260px;
+    padding: 30px;
+    padding-left:60px;
+}
+
